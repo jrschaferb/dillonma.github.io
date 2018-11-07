@@ -1,4 +1,4 @@
-# Project 2 Demo site
+## Project 2 Demo site
 [I'm an inline-style link](https://www.google.com)
 
 ### This is a header 3
