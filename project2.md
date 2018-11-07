@@ -15,3 +15,10 @@ You can tell because it has three \#'s in a row. Try not to use header 1 or 2 (t
 ### Images!
 
 ![It's Fine Alt Text](itsfine.gif)
+
+
+### This is how you do code and stuff
+Please make sure to put the python code you used in your markdown!
+```python
+QgsVectorFileWriter.writeAsVectorFormat(LAYERVARIABLE_name_selectedfeatures, r'C:/Users/ges_student/Desktop/OUTPUT_name.gpkg', 'utf-8', LAYERVARIABLE_name_selectedfeatures.crs(),'GPKG', True)
+```
