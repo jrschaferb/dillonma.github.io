@@ -1,10 +1,10 @@
 ---
 title: Project 2
-feature_text: | A demo of Markdown and HTML includes for Project 2, but put your description here
-feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "Ten word description here of the project."
-aside: false
 ---
+
+This is normal text. The first header section is what will be displayed on the top of the page. Ignore the title for now.
+
+Note that to start a new paragraph, you need to have a whole line break in between the two.
 
 ### Example links and stuff
 [I'm an inline-style link](https://www.google.com)
