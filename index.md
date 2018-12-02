@@ -7,11 +7,15 @@ title: Dillon Mahmoudi's Example Portfolio
     ### Project 1 
 
     Other details
-    </div>
-    <div style="display: inline-block">
-    ### Project 2
     
+    </div>
+    
+    <div style="display: inline-block">
+    ![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+    ### Project 2
+
     Some more details
+
     </div>
 </div>
 
