@@ -2,21 +2,21 @@
 title: Dillon Mahmoudi's Example Portfolio
 ---
 
-<div style="white-space:nowrap; overflow: hidden;">
-    <div style="display: inline-block" markdown="1">
-    ### Project 1 
+<div style="display: inline-block" markdown="1">
 
-    Other details
-    
-    </div>
-    
-    <div style="display: inline-block" markdown="1">
-    ![It's Fine Alt Text](project1_bamap/p1_teaser.png)
-    ### Project 2
+### Project 1 
 
-    Some more details
+Other details
 
-    </div>
+</div>
+
+<div style="display: inline-block" markdown="1">
+
+![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+### Project 2
+
+Some more details
+
 </div>
 
 ### Markdown
