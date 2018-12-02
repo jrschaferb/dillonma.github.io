@@ -41,7 +41,7 @@ This example text that briefly describes the map. [See more details here.](https
 
 ### Project 3 
 
-[![It's Fine Alt Text](project1_bamap/p3_teaser.png)](https://dillonma.github.io/project1_bamap/project1.html)
+[![It's Fine Alt Text](project3_demo/p3_teaser.png)](https://dillonma.github.io/project1_bamap/project1.html)
 
 This project one uses a 350px x 350px circle image. 
 
@@ -58,7 +58,7 @@ This example text that briefly describes the map. [See more details here.](https
 
 ### Project 4
 
-![It's Fine Alt Text](project2_sfi/p4_teaser.png)
+![It's Fine Alt Text](project4_demo/p4_teaser.png)
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
