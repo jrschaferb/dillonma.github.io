@@ -1,12 +1,15 @@
 ---
 title: Dillon Mahmoudi's Example Portfolio
 ---
+<!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px" markdown="1">
 
 ### Project 1 
 
 [![It's Fine Alt Text](project1_bamap/p1_teaser.png)](https://dillonma.github.io/project1_bamap/project1.html)
+
+This teaser is a 350px x 200px teaser image.
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
@@ -30,10 +33,44 @@ This example text that briefly describes the map. [See more details here.](https
 *Data*: 
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)
 
+</div>
+</div>
+<!--This is the second row of projects -->
+<div style="display:table-row; width:100%; table-layout: fixed">
+<div style="display: table-cell; width:370px" markdown="1">
 
+### Project 3 
+
+[![It's Fine Alt Text](project1_bamap/p3_teaser.png)](https://dillonma.github.io/project1_bamap/project1.html)
+
+This project one uses a 350px x 350px circle image. 
+
+This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+
+*Tools*: QGIS, Interpolation, Photoshop
+
+*Data*: 
+[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)
+
+</div>
+
+<div style="display: table-cell; width:370px" markdown="1">
+
+### Project 4
+
+![It's Fine Alt Text](project2_sfi/p4_teaser.png)
+
+This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+
+*Tools*: QGIS, R
+
+*Data*: 
+[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)
 
 </div>
 </div>
+
+<!--This is just other markdown -->
 
 ### Markdown
 
