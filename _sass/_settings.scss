@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
 // Typography
 $bodytype: (
   font-family: '"Source Sans Pro", serif',
@@ -14,11 +16,15 @@ $headingtype: (
   cap-height: 0.75
 );
 
-$monospacetype: (
-  font-family: '"Source Code Pro", monospace',
-  regular: 400,
-  cap-height: 0.68
-);
-
-@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700');
-@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro:400,700');
+.typeset h1,.typeset h2,.typeset h3,.typeset h4,.typeset h5,.typeset h6{
+    font-family:"Source Sans Pro", serif;
+}
+.typeset table{
+    font-family:"Source Sans Pro", serif;
+}
+.typeset small,.typeset .caption{
+    font-family:"Source Sans Pro", serif;
+}
+body{
+    font-family:"Source Sans Pro", serif;
+}
