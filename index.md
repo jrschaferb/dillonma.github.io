@@ -16,7 +16,7 @@ Other details
 
 ### Project 2
 
-![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+![It's Fine Alt Text](project2_sfi/p2_teaser.png)
 
 Some more details
 
