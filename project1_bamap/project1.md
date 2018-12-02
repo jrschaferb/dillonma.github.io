@@ -1,5 +1,10 @@
 ---
 title: Project 1 - Badassness Map
+feature_image: "p1_feature.png"
+feature_text: |
+  ## Project 1 - Badassness Map
+  This is a demo of a project page for GES.
+  
 ---
 
 This is normal text. The first header section is what will be displayed on the top of the page. Ignore the title for now.
@@ -14,7 +19,7 @@ You can tell because it has three \#'s in a row. Try not to use header 1 or 2 (t
 
 ### Images!
 
-![It's Fine Alt Text](itsfine.gif)
+![It's Fine Alt Text](p1_teaser.png)
 
 
 ### This is how you do code and stuff
