@@ -3,7 +3,7 @@ title: Dillon Mahmoudi's Example Portfolio
 ---
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
 ### Project 1 
 
@@ -45,7 +45,7 @@ Notice I used markdown inside the html tags.
 </div>
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
-<div style="display: table-cell; width:370px" markdown="1">
+<div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
 ### Project 3 
 
