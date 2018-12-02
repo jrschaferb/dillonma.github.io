@@ -28,7 +28,7 @@ This example text that briefly describes the map. [See more details here.](https
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
-*Tools*: QGIS, R
+<small>*Tools*: QGIS, R</small>
 
 *Data*: 
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)
