@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+.typeset h1,.typeset h2,.typeset h3,.typeset h4,.typeset h5,.typeset h6{
+    font-family:"Source Sans Pro", serif;
+}
+.typeset table{
+    font-family:"Source Sans Pro", serif;
+}
+.typeset small,.typeset .caption{
+    font-family:"Source Sans Pro", serif;
+}
+body{
+    font-family:"Source Sans Pro", serif;
+}
