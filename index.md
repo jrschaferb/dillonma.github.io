@@ -26,7 +26,7 @@ _Even more details here._
 [Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)
 
 </div>
-<div>
+</div>
 
 ### Markdown
 
