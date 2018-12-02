@@ -6,9 +6,14 @@ title: Dillon Mahmoudi's Example Portfolio
 
 ### Project 1 
 
-![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+[![It's Fine Alt Text](project1_bamap/p1_teaser.png)](https://dillonma.github.io/project1_bamap/project1.html)
 
-Other details
+This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+
+*Tools*: QGIS, Interpolation, Photoshop,
+
+*Data*: 
+[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)
 
 </div>
 
@@ -18,12 +23,7 @@ Other details
 
 ![It's Fine Alt Text](project2_sfi/p2_teaser.png)
 
-Some more details
 
-_Even more details here._
-
-*Sources*: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)
 
 </div>
 </div>
