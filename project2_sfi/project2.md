@@ -1,8 +1,8 @@
 ---
-title: Project 1 - Storefront Index
+title: Project 2
 feature_image: "p2_feature.png"
 feature_text: |
-  ## Project 1 - Storefront Index
+  ## Storefront Index
   This is a demo of a project page for GES.
   
 ---

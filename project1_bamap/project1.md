@@ -1,10 +1,9 @@
 ---
-title: Project 1 - Badassness Map
+title: Project 1
 feature_image: "p1_feature.png"
 feature_text: |
-  ## Project 1 - Badassness Map
+  ## Badassness Map
   This is a demo of a project page for GES.
-  
 ---
 
 This is normal text. The first header section is what will be displayed on the top of the page. Ignore the title for now.
