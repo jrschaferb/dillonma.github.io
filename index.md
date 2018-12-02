@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+---
+title: Dillon Mahmoudi
+---
 
-You can use the [editor on GitHub](https://github.com/dillonma/dillonma.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<div style="white-space:nowrap; overflow: hidden;">
+    <div style="display: inline-block">
+    ### Project 1 
+    Other details
+    </div>
+    <div style="display: inline-block">
+    ### Project 2
+    Some more details
+    </div>
+</div>
 
 ### Markdown
 
