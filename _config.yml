@@ -1,1 +1,23 @@
 remote_theme: daviddarnes/alembic
+
+// Typography
+$bodytype: (
+  font-family: '"Source Sans Pro", serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: '"Source Sans Pro", serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+$monospacetype: (
+  font-family: '"Source Code Pro", monospace',
+  regular: 400,
+  cap-height: 0.68
+);
