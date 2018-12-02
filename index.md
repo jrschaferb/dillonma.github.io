@@ -2,7 +2,7 @@
 title: Dillon Mahmoudi's Example Portfolio
 ---
 <div style="display:table-row">
-<div style="display: table-cell; width=49%" markdown="1">
+<div style="display: table-cell; width=370px" markdown="1">
 
 ### Project 1 
 
@@ -12,7 +12,7 @@ Other details
 
 </div>
 
-<div style="display: table-cell; width=50%" markdown="1">
+<div style="display: table-cell; width=370px" markdown="1">
 
 ### Project 2
 
