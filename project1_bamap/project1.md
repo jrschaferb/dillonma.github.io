@@ -1,5 +1,5 @@
 ---
-title: Project 2
+title: Project 1 - Badassness Map
 ---
 
 This is normal text. The first header section is what will be displayed on the top of the page. Ignore the title for now.
