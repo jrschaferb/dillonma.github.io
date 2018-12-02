@@ -14,7 +14,6 @@ This teaser is a 350px x 200px teaser image.
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
 <small>__Tools__: QGIS, Interpolation, Photoshop</small>
-
 <small>__Data__: 
 [Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
 
@@ -37,7 +36,6 @@ The text below is smaller than the rest of this text. I used html tags for `smal
 Notice I used markdown inside the html tags. 
 
 <small>__Tools__: QGIS, R</small>
-
 <small>__Data__:
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
 
@@ -51,12 +49,11 @@ Notice I used markdown inside the html tags.
 
 ![It's Fine Alt Text](project3_demo/p3_teaser.png)
 
-This project one uses a 350px x 350px circle image. 
+This project uses a 350px square image for the teaser image, but inside the square image, I used a circle to highlight a certain area. 
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
 <small>__Tools__: QGIS, Interpolation, Photoshop
-
 <small>__Data__: 
 [Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
 
@@ -71,7 +68,6 @@ This example text that briefly describes the map. [See more details here.](https
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
 <small>__Tools__: QGIS, R
-
 <small>__Data__:
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
 
