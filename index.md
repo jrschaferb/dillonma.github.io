@@ -6,16 +6,24 @@ title: Dillon Mahmoudi's Example Portfolio
 
 ### Project 1 
 
+![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+
 Other details
 
 </div>
 
 <div style="display: inline-block" markdown="1">
 
-![It's Fine Alt Text](project1_bamap/p1_teaser.png)
 ### Project 2
 
+![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+
 Some more details
+
+_Even more details here._
+
+*Sources*: 
+[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)
 
 </div>
 
