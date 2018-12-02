@@ -13,10 +13,10 @@ This teaser is a 350px x 200px teaser image.
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
-*Tools*: QGIS, Interpolation, Photoshop
+<small>__Tools__: QGIS, Interpolation, Photoshop</small>
 
-*Data*: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)
+<small>__Data__: 
+[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
 
 </div>
 
@@ -28,10 +28,18 @@ This example text that briefly describes the map. [See more details here.](https
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
-<small>*Tools*: QGIS, R</small>
+The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
-*Data*: 
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)
+```html
+<small>Text to *make* small.</small>
+```
+
+Notice I used markdown inside the html tags. 
+
+<small>__Tools__: QGIS, R</small>
+
+<small>__Data__:
+[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
 
 </div>
 </div>
@@ -47,10 +55,10 @@ This project one uses a 350px x 350px circle image.
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
-*Tools*: QGIS, Interpolation, Photoshop
+<small>__Tools__: QGIS, Interpolation, Photoshop
 
-*Data*: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)
+<small>__Data__: 
+[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
 
 </div>
 
@@ -62,10 +70,10 @@ This example text that briefly describes the map. [See more details here.](https
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
-*Tools*: QGIS, R
+<small>__Tools__: QGIS, R
 
-*Data*: 
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)
+<small>__Data__:
+[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
 
 </div>
 </div>
