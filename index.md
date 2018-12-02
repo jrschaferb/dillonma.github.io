@@ -7,7 +7,7 @@ title: Dillon Mahmoudi's Example Portfolio
 
 ### Project 1 
 
-[![It's Fine Alt Text](project1_bamap/p1_teaser.png)](https://dillonma.github.io/project1_bamap/project1.html)
+![It's Fine Alt Text](project1_bamap/p1_teaser.png)
 
 This teaser is a 350px x 200px teaser image.
 
@@ -41,7 +41,7 @@ This example text that briefly describes the map. [See more details here.](https
 
 ### Project 3 
 
-[![It's Fine Alt Text](project3_demo/p3_teaser.png)](https://dillonma.github.io/project1_bamap/project1.html)
+![It's Fine Alt Text](project3_demo/p3_teaser.png)
 
 This project one uses a 350px x 350px circle image. 
 
