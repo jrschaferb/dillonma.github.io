@@ -10,7 +10,7 @@ title: Dillon Mahmoudi's Example Portfolio
 
 This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
-*Tools*: QGIS, Interpolation, Photoshop,
+*Tools*: QGIS, Interpolation, Photoshop
 
 *Data*: 
 [Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)
@@ -22,6 +22,13 @@ This example text that briefly describes the map. [See more details here.](https
 ### Project 2
 
 ![It's Fine Alt Text](project2_sfi/p2_teaser.png)
+
+This example text that briefly describes the map. [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+
+*Tools*: QGIS, R
+
+*Data*: 
+[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)
 
 
 
