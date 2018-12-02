@@ -1,14 +1,16 @@
 ---
-title: Dillon Mahmoudi
+title: Dillon Mahmoudi's Example Portfolio
 ---
 
 <div style="white-space:nowrap; overflow: hidden;">
     <div style="display: inline-block">
     ### Project 1 
+
     Other details
     </div>
     <div style="display: inline-block">
     ### Project 2
+    
     Some more details
     </div>
 </div>
