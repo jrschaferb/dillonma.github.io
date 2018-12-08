@@ -49,7 +49,8 @@ Notice I used markdown inside the html tags.
 
 ### Project 3 
 
-![It's Fine Alt Text](project3_demo/p3_teaser.png)
+![3d_map](https://user-images.githubusercontent.com/42807889/49681322-cf3c1280-fa6d-11e8-81bf-d96f2be6bcce.GIF)
+
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
